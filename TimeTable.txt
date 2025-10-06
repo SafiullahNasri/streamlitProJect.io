@@ -1,0 +1,47 @@
+Monday: PF = java,FE,ML = https://youtu.be/G9qYGasRc54
+Tuesday: PF = java, ML, Python
+Wednesday: FE,Python,ML  = https://youtu.be/G9qYGasRc54
+Thursday: Data science = https://youtu.be/gDZ6czwuQ18
+Friday:Flutter, Data structure = https://youtu.be/pkYVOmU3MgA
+                Data structure = https://youtu.be/f9Aje_cN_CY
+                Data structure = https://youtu.be/mGJusQ7iBwc
+                    ,data analysis, = https://youtu.be/VaSjiJMrq24
+                Python = https://youtu.be/t8pPdKYpowI
+                python  = https://youtu.be/b97WsOM9BYg
+                python = https://youtu.be/4CtUyzSters?list=TLPQMDUxMDIwMjV7BEqNOPiBNw
+Saturday: MlProject  = random.
+          Data science = https://youtu.be/gDZ6czwuQ18
+          Python  = https://youtu.be/v9bOWjwdTlg
+Sunday:   Dat science project = random
+          ML project = random
+          data analysis, = https://youtu.be/VaSjiJMrq24
+
+
+
+
+
+                             <* projects in the data science *>
+                             1: Recommender system like for the movies
+                             2:snetiment project like for the movies
+                             3:data analysis project of the web applicatios
+                             4: whatasapp chatt analysis project
+                             5: forecast applicatation project in the data science
+                             6: posnet detection project in the ..
+                             7: face prediction project like with one celebrity 
+                             8: monshot project in the data science
+
+
+
+regular machine learning classes 
+1:https://youtu.be/JxgmHe2NyeY
+2:https://youtu.be/G9qYGasRc54
+3:https://youtu.be/AzblgZNoBWw
+
+
+
+ML series
+part one : https://youtu.be/LcWFedjaR4Q?list=PLfFghEzKVmjvII5ZcBnFWQOUjtUVdDnmo
+part two : https://youtu.be/tVHMuFi3584?list=PLfFghEzKVmjvII5ZcBnFWQOUjtUVdDnmo
+part three : https://youtu.be/mAf9QYZVH6s?list=PLfFghEzKVmjvII5ZcBnFWQOUjtUVdDnmo
+part four : https://youtu.be/YRkN5k47NSY?list=PLfFghEzKVmjvII5ZcBnFWQOUjtUVdDnmo
+part five : https://youtu.be/VaF-M4F3B78?list=PLfFghEzKVmjvII5ZcBnFWQOUjtUVdDnmo
